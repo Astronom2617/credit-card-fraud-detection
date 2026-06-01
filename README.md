@@ -53,7 +53,7 @@ All models evaluated on the same time-based test split (56,962 transactions, 75 
 | Naive Baseline (DummyClassifier) | 0.00 | 0.00 | 0.00 | - |
 | Logistic Regression (default) | 0.86 | 0.57 | 0.69 | - |
 | Logistic Regression (balanced) | 0.05 | 0.91 | 0.09 | - |
-| Random Forest (balanced) | 0.98 | 0.65 | 0.78 | - |
+| Random Forest (balanced) | 0.98 | 0.68 | 0.80 | - |
 | Random Forest + SMOTE (0.1) | 0.98 | 0.72 | 0.83 | - |
 | **RF + SMOTE + threshold 0.28** | **0.76** | **0.80** | **0.78** | **0.807** |
 
